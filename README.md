@@ -1,5 +1,5 @@
 # 💫 About Me:
-A dedicated software developer with a focus on creating exceptional digital experiences.
+Hello! I'm Shivam Gopal from Delhi, a B.Tech graduate in Information Technology from Guru Gobind Singh Indraprastha University. Currently, I’m honing my web development skills at Masai School, where I’ve built industry-relevant, hands-on expertise. Outside of coding, I’m a National-level chess player licensed by the All India Chess Federation, which has sharpened my analytical and strategic thinking. I’m also a passionate guitarist with a Grade 3 certification from Trinity College London, having performed as the lead guitarist at multiple events. Combining technical proficiency, problem-solving skills, and creative pursuits, I’m excited to tackle challenging opportunities and contribute meaningfully to impactful projects.
 
 
 ## 🌐 Socials:
